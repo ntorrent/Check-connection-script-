@@ -23,5 +23,8 @@ On `N` és **el temps en segons cada quant comprovarà si està actiu l'equip**
 
 # Demo
 
+Podeu veure el resultat de la demo de l'script realitzada a classe [en aquest enllaç](https://htmlpreview.github.io/?https://github.com/ntb-cicles/Check-connection-script-/blob/main/exemple-execucio-correcta-script-ex4.html).
+
+Per a realitzar la demo, s'ha utilitzat un equip el qual s'ha connectat i desconnectat de la VPN per comprovar que l'script funciona.
 
 
